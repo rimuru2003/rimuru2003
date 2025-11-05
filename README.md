@@ -1,3 +1,15 @@
+# 💫 Hi 👋, I'm Aryan Singh
+**A passionate web Developer from India**
+
+Email Me 👉 ✉️ **karansnh007@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Frontend websites  
+- 🌱 **I’m currently learning:** Cloud Computing  
+- 👯 **I’m looking to collaborate on:** Open-source projects and innovative ideas  
+- 💬 **Ask me about:** Frontend Development, Cloud Computing, Web Development, React, JavaScript
+- 📫 **How to reach me:** karansnh007@gmail.com  
+- 😄 **Pronouns:** Aryan   
+- ⚡ **Fun fact:**I love experimenting with code and making cool things happen
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-a57715224) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karansnh007@gmail.com) 
